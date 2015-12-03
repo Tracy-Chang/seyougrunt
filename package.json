@@ -1,0 +1,22 @@
+{
+  "name": "seyougrunt",
+  "version": "1.0.0",
+  "description": "learn grunt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seyouzhishu000/seyougrunt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seyouzhishu000/seyougrunt/issues"
+  },
+  "homepage": "https://github.com/seyouzhishu000/seyougrunt#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
